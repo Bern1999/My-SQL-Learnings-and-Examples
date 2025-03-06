@@ -1,0 +1,1 @@
+Welcome to my SQL learning journey! This repository serves as a collection of my SQL practice, insights, and key takeaways as I dive deeper into the world of databases. SQL (Structured Query Language) is an essential tool for managing and querying relational databases, and I’m excited to share what I’ve learned.
